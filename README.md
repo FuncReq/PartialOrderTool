@@ -1,5 +1,7 @@
 # PartialOrderTool
-UserManual_PartialoRderTool.pdf documents the steps required for installation of "PartialOrder" Tool and subsequently the method for using the tool as well.
+This repository contains the files for installation of "PartialOrder" tool and different supporting files.
+
+UserManual_PartialOrderTool.pdf documents the steps required for installation of "PartialOrder" Tool and subsequently the method for using the tool as well.
 
 Tutorial_PartialOrderTool.mp4 is the recorded video of the steps of the installation of the tool followed by its usage.
 
