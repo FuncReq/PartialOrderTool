@@ -13,4 +13,4 @@ Input Data Sets.rar contains the input files that can be used while running the 
 
 PO_TOOL-SetupFiles.rar consists of the files required for installation of the tool.
 
-In order to use the tool read the "UserManual_PartialoRderTool.pdf" and follow the steps diligently.
+In order to use the tool read the "UserManual_PartialOrderTool.pdf" and follow the steps diligently.
